@@ -2,7 +2,7 @@
 from . import helpers
 
 def get_hmm():
-    """Get a thought."""
+    """Get a thought.!!!!!!"""
     return 'hmmm...'
 
 
